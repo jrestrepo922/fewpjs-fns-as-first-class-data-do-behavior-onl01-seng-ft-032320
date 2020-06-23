@@ -15,7 +15,7 @@ function greet(timeString) {
  
   hourInt = parseInt(hourStr)
   
-  if (timeInt < 12) {
+  if (hourInt < 12) {
     
   } else if () {
     
