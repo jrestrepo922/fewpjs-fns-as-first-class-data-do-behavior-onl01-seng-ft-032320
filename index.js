@@ -11,6 +11,14 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 function greet(timeString) {
+  timeInt = parseInt(timeString)
   
+  if (timeInt < 12) {
+    
+  } else if () {
+    
+  } else {
+    
+  }
 }
 /* Write your implementation of displayMessage() */
