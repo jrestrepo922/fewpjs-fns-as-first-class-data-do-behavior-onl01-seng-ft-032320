@@ -27,8 +27,7 @@ function greet(timeString) {
 
 function displayMessage(message) {
   const element = document.getElementById("greeting");
-  let text = document.createTextNode(message);
-  element.appendChild(text);
+  element.innerText 
 }
 
 
