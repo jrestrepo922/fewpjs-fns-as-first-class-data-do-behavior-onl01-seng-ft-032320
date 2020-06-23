@@ -25,6 +25,9 @@ function greet(timeString) {
 }
 /* Write your implementation of displayMessage() */
 
+function displayMessage(message) {
+  
+}
 
 
 
