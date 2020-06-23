@@ -11,6 +11,7 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 function greet(timeString) {
+  timeString.split(":")[0]
   timeInt = parseInt(timeString)
   
   if (timeInt < 12) {
